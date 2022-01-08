@@ -1,0 +1,129 @@
+[
+    {
+        "studentCode" : "18T1021336",
+        "fullName" : "Huỳnh Quang Trưng",
+        "dateOfBirth" : "19/03/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "1",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 10.0,
+            "testMarks2" : 10.0,
+            "finalExamMarks" : 10
+        }
+    },
+    {
+        "studentCode" : "18T10213358",
+        "fullName" : "Hồ Đắc Vinh",
+        "dateOfBirth" : "01/05/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "1",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 9.0,
+            "testMarks2" : 9.0,
+            "finalExamMarks" : 8.0
+        }
+    },
+    {
+        "studentCode" : "18T1021000",
+        "fullName" : "Trần Kim Hiếu",
+        "dateOfBirth" : "17/10/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "1",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 7.0,
+            "testMarks2" : 8.0,
+            "finalExamMarks" : 7
+        }
+    },
+    {
+        "studentCode" : "18T1021228",
+        "fullName" : "Lê Thị Thu",
+        "dateOfBirth" : "19/07/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "1",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 8.0,
+            "testMarks2" : 9.0,
+            "finalExamMarks" : 10
+        }
+    },
+    {
+        "studentCode" : "18T102358",
+        "fullName" : "Trần Văn Nam",
+        "dateOfBirth" : "27/09/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "2",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 10.0,
+            "testMarks2" : 10.0,
+            "finalExamMarks" : 10
+        }
+    },
+    {
+        "studentCode" : "18T1021136",
+        "fullName" : "Trương Công Vỹ",
+        "dateOfBirth" : "26/05/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "1",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 8.0,
+            "testMarks2" : 9.0,
+            "finalExamMarks" : 9
+        }
+    },
+    {
+        "studentCode" : "18T1021188",
+        "fullName" : "Châu Văn Nam",
+        "dateOfBirth" : "16/11/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "3",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 9.0,
+            "testMarks2" : 9.0,
+            "finalExamMarks" : 10
+        }
+    },
+    {
+        "studentCode" : "18T1021197",
+        "fullName" : "Nguyễn Tin",
+        "dateOfBirth" : "08/03/2000",
+        "course" : "K42",
+        "major" : "CNTT",
+        "classNumber" : "1",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 10.0,
+            "testMarks2" : 10.0,
+            "finalExamMarks" : 9
+        }
+    },
+    {
+        "studentCode" : "16T1021190",
+        "fullName" : "Hoàng Bửu",
+        "dateOfBirth" : "15/03/1998",
+        "course" : "K41",
+        "major" : "CNTT",
+        "classNumber" : "1",
+        "marks" : {
+            "attendancePoints" : 10.0,
+            "testMarks1" : 10.0,
+            "testMarks2" : 8.0,
+            "finalExamMarks" : 8
+        }
+    }
+
+]
